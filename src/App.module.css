@@ -1,0 +1,255 @@
+.footerIcon {
+  position: absolute;
+  top: 58.63rem;
+  left: 0;
+  width: 90rem;
+  height: 0.06rem;
+}
+
+.rowChild {
+  position: absolute;
+  top: 0;
+  left: 25.69rem;
+  border-radius: 6px;
+  width: 17.5rem;
+  height: 4.31rem;
+}
+
+.signIn {
+  position: absolute;
+  top: 1.13rem;
+  left: 32rem;
+}
+
+.initialsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  width: 19rem;
+  height: 4.31rem;
+}
+
+.tutorInitials {
+  position: absolute;
+  top: 1.13rem;
+  left: 2.13rem;
+  display: inline-block;
+  width: 13.69rem;
+}
+
+.dropDownArrow {
+  position: absolute;
+  top: 1.83rem;
+  left: 15.81rem;
+  width: 1.19rem;
+  height: 0.67rem;
+}
+
+.initials,
+.row {
+  position: absolute;
+  height: 4.31rem;
+}
+
+.initials {
+  top: 0;
+  left: 0;
+  width: 19rem;
+  color: #5f5f5f;
+}
+
+.row {
+  top: 27.69rem;
+  left: 21.69rem;
+  width: 43.19rem;
+}
+
+.hrIcon,
+.searchbarChild {
+  position: absolute;
+  width: 43rem;
+}
+
+.hrIcon {
+  top: 24.31rem;
+  left: 21.88rem;
+  height: 0.13rem;
+}
+
+.searchbarChild {
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  height: 4.31rem;
+}
+
+.searchForStudent {
+  position: absolute;
+  top: 1.13rem;
+  left: 3.06rem;
+  display: inline-block;
+  width: 17.38rem;
+}
+
+.image9Icon {
+  position: absolute;
+  top: 0.38rem;
+  left: 39.81rem;
+  width: 2.75rem;
+  height: 3.69rem;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+
+.searchbar {
+  position: absolute;
+  top: 16.88rem;
+  left: 21.88rem;
+  width: 43rem;
+  height: 4.31rem;
+  color: #5f5f5f;
+}
+
+.navbarChild {
+  position: absolute;
+  top: 6.59rem;
+  left: 0;
+  width: 90rem;
+  height: 0.06rem;
+}
+
+.image8Icon {
+  position: relative;
+  width: 4.19rem;
+  height: 4.13rem;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+
+.management,
+.mathHub {
+  position: relative;
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 20;
+  -webkit-box-orient: vertical;
+  width: 11.75rem;
+}
+
+.management {
+  font-size: 0.78rem;
+}
+
+.frame2,
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.frame2 {
+  width: 11.75rem;
+  height: 3.38rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.logo {
+  width: 15.56rem;
+  height: 4.13rem;
+  flex-direction: row;
+  gap: 0.56rem;
+}
+
+.insert,
+.signOn,
+.view {
+  position: relative;
+  display: inline-block;
+  height: 3.88rem;
+  flex-shrink: 0;
+}
+
+.signOn {
+  color: #161616;
+  width: 12.19rem;
+}
+
+.insert,
+.view {
+  width: 9rem;
+}
+
+.insert {
+  width: 6.75rem;
+}
+
+.frame1,
+.navButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.navButtons {
+  height: 3.94rem;
+  font-size: 2.5rem;
+  color: #797979;
+  font-family: Nunito;
+}
+
+.frame1 {
+  height: 4.13rem;
+  overflow: hidden;
+}
+
+.userIcon {
+  position: relative;
+  width: 4.19rem;
+  height: 3.38rem;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+
+.frame,
+.navbar {
+  position: absolute;
+}
+
+.frame {
+  top: 1.38rem;
+  left: 7.75rem;
+  width: 71.69rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.navbar {
+  top: 0;
+  left: 0;
+  width: 86.5rem;
+  height: 6.63rem;
+  font-size: 1rem;
+  color: #112447;
+  font-family: Trispace;
+}
+
+.signInDefault {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.56rem;
+  color: #fff;
+  font-family: Nunito;
+}
